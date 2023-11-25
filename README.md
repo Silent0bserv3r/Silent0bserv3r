@@ -1,5 +1,5 @@
-<img src="./favicon.svg"  width="20" height="20">
-<h1 align="center">Hi 👋, I'm Gaurav Chaubey</h1>
+
+<h1 align="center"> <img src="./favicon.svg"  width="20" height="20"> Hi 👋, I'm Gaurav Chaubey</h1>
 <h3 align="center">A passionate frontend developer from India who likes make product in his free time. (Cause I'm built different)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silent0bserv3r&label=Profile%20views&color=9514ff&style=flat" alt="silent0bserv3r" /> </p>
