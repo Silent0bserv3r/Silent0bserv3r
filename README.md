@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="./favicon.svg"  width="20" height="20"> Hi 👋, I'm Gaurav Chaubey</h1>
+<h1 align="center"> <img src="./favicon.svg"  width="40" height="40"> Hi 👋, I'm Gaurav Chaubey</h1>
 <h3 align="center">A passionate frontend developer from India who likes make product in his free time. (Cause I'm built different)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silent0bserv3r&label=Profile%20views&color=9514ff&style=flat" alt="silent0bserv3r" /> </p>
@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://github.com/Silent0bserv3r/Silent0bserv3r/raw/main/Gaurav%20Chaubey.pdf](https://github.com/Silent0bserv3r/Silent0bserv3r/raw/main/Gaurav%20Chaubey.pdf)
 
-- ⚡ Fun fact **69% of the developers are self taught. That's n**
+- ⚡ Fun fact **69% of the developers are self taught. That's nice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
