@@ -39,7 +39,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/silent0bs3rv3r"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="silent0bs3rv3r" /></a><a href="https://ko-fi.com/silent0bserv3r"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="silent0bserv3r" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silent0bserv3r&show_icons=true&locale=en&layout=compact" alt="silent0bserv3r" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silent0bserv3r&show_icons=true&locale=en&layout=compact" alt="silent0bserv3r" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0bserv3r&show_icons=true&locale=en" alt="silent0bserv3r" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=silent0bserv3r&show_icons=true&locale=en" alt="silent0bserv3r" />
 
