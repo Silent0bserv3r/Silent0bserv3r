@@ -2,9 +2,9 @@
 <h1 align="center"> <img src="./favicon.svg"  width="40" height="40"> Hi 👋, I'm Gaurav Chaubey</h1>
 <h3 align="center">A passionate frontend developer from India who likes make product in his free time. (Cause I'm built different)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=silent0bserv3r&label=Profile%20views&color=9514ff&theme=onedark" alt="silent0bserv3r" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=silent0bserv3r&label=Profile%20views&color=9514ff&style=flat" alt="silent0bserv3r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silent0bserv3r" alt="silent0bserv3r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silent0bserv3r&theme=onedark" alt="silent0bserv3r" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/silent0bsrv3r" target="blank"><img src="https://img.shields.io/twitter/follow/silent0bsrv3r?logo=twitter&style=for-the-badge" alt="silent0bsrv3r" /></a> </p>
 
