@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **gauravchaubey807@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Silent0bserv3r/Silent0bserv3r/raw/main/Gaurav%20Chaubey.pdf](https://github.com/Silent0bserv3r/Silent0bserv3r/raw/main/Gaurav%20Chaubey.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Silent0bserv3r/Silent0bserv3r/raw/main/Gaurav%20Chaubey.pdf)
 
 - ⚡ Fun fact **69% of the developers are self taught. That's nice**
 
