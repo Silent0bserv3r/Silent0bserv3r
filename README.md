@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Product Design**
 
-- 👨‍💻 All of my projects are available at [portfolio.codebug.in](https://portfolio.codebug.in)
+- 👨‍💻 All of my projects are available at [Profile](https://profile.codebug.in)
 
 - 📝 I regularly write articles on [blog.codebug.in](https://blog.codebug.in)
 
